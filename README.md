@@ -50,8 +50,6 @@
 
 - Protocolos de red. 
 
-Enlaces
-
 - [Metasploit](https://docs.metasploit.com/docs/using-metasploit/getting-started/nightly-installers.html)
 
 
@@ -80,6 +78,4 @@ Enlaces
 - [Biblioteca digital](http://libgen.st/)
 
 - [Curso de Obsidian Gratis](https://emowe.com/cerebro-digital/curso-tutorial-de-obsidian/)
-
-
 
