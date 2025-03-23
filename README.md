@@ -6,7 +6,7 @@
 
 - [Playlist](https://www.youtube.com/watch?v=_Sp8pwd0LOs&list=PLDLnmbUDWFUtFTqLf_lS99z2gmYU5ouRv&ab_channel=Art0xdev)
 
-	>[!Note]
+	>[note]
 	>Es importante saber conceptos básicos de programación antes 
 
 ***
