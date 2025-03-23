@@ -6,7 +6,7 @@
 
 - [Playlist](https://www.youtube.com/watch?v=_Sp8pwd0LOs&list=PLDLnmbUDWFUtFTqLf_lS99z2gmYU5ouRv&ab_channel=Art0xdev)
 
-	>[!Nota]
+	>[!Note]
 	>Es importante saber conceptos básicos de programación antes 
 
 ***
@@ -18,13 +18,13 @@
 -  [Programación Básica || Introducción](https://www.youtube.com/watch?v=a7eznAouNak&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6)
 
 
-	>[!Nota]
+	>[!Note]
 	>Este recurso te ayudara a entender la sintaxis de un lenguaje
 
 - Ejercicios de Programación || Exercism.org
 
 
-	>[!Nota]
+	>[!Note]
 	> Pagina para que practiques en el lenguajes que tu desees, a programar se aprende programando.
 
 
