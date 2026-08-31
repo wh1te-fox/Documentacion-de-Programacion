@@ -126,3 +126,5 @@
 - Extrapolar conocimientos previos 
 
 - Optimizar y depurar código. 
+
+- [Conoce](https://youtu.be/UTNbLoZCOgM)
